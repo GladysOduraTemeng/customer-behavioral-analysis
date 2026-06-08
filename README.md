@@ -58,7 +58,6 @@ This project is an end-to-end data analytics solution that demonstrates the full
 ---
 
 ## 📊 Dashboard Preview
-*(Add your Power BI screenshot here)*
 
 ```markdown
 ![Dashboard](power bi/customer_dashboard.jpeg)
