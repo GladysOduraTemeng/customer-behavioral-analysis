@@ -60,7 +60,7 @@ This project is an end-to-end data analytics solution that demonstrates the full
 ## 📊 Dashboard Preview
 
 ```markdown
-![Dashboard](power bi/customer_dashboard.jpeg)
+![Dashboard](powerbi/customer_dashboard.jpeg)
 ```
 
 ---
